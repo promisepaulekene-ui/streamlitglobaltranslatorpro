@@ -1,7 +1,8 @@
-streamlit1.28.1
-gTTS2.3.2
-deep-translator1.11.4
-openai1.3.0
-Pillow10.0.1
+streamlit
+gTTS
+deep-translator
+openai
+Pillow
 
-requests2.31.0
+requests
+
